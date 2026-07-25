@@ -1,14 +1,14 @@
 # Privacy Policy
 
-*Letzte Aktualisierung: [DATUM EINTRAGEN]*
+*Letzte Aktualisierung: 25.07.2026*
 
-Diese Datenschutzerklärung beschreibt, wie [DEIN NAME / PROJEKTNAME] ("wir",
+Diese Datenschutzerklärung beschreibt, wie Tiktok - Generator ("wir",
 "diese Anwendung") Daten im Zusammenhang mit der Nutzung der TikTok Content
 Posting API verarbeitet.
 
 ## Was diese Anwendung macht
 
-[DEIN NAME / PROJEKTNAME] ist ein persönliches Automatisierungs-Tool, das
+Tiktok - Generator ist ein persönliches Automatisierungs-Tool, das
 prozedural generierte, geometrische Videoanimationen erstellt und diese über
 TikToks offizielle Content Posting API auf einen einzelnen, selbst
 kontrollierten TikTok-Account veröffentlicht.
@@ -51,7 +51,7 @@ jederzeit über TikToks eigene Kontoeinstellungen
 
 ## Kontakt
 
-Fragen zu dieser Datenschutzerklärung: [DEINE E-MAIL-ADRESSE EINTRAGEN]
+Fragen zu dieser Datenschutzerklärung: linus_wolf06@gmx.de
 
 ---
 
