@@ -2,15 +2,15 @@
 
 *Letzte Aktualisierung: 25.07.2026*
 
-Diese Datenschutzerklärung beschreibt, wie Tiktok - Generator ("wir",
+Diese Datenschutzerklärung beschreibt, wie TikTok Generator ("wir",
 "diese Anwendung") Daten im Zusammenhang mit der Nutzung der TikTok Content
 Posting API verarbeitet.
 
 ## Was diese Anwendung macht
 
-Tiktok - Generator ist ein persönliches Automatisierungs-Tool, das
-prozedural generierte, geometrische Videoanimationen erstellt und diese über
-TikToks offizielle Content Posting API auf einen einzelnen, selbst
+TikTok Generator ist ein persönliches Automatisierungs-Tool von Linus Wolf,
+das prozedural generierte, geometrische Videoanimationen erstellt und diese
+über TikToks offizielle Content Posting API auf einen einzelnen, selbst
 kontrollierten TikTok-Account veröffentlicht.
 
 ## Welche Daten wir über TikTok verarbeiten
@@ -51,13 +51,4 @@ jederzeit über TikToks eigene Kontoeinstellungen
 
 ## Kontakt
 
-Fragen zu dieser Datenschutzerklärung: linus_wolf06@gmx.de
-
----
-
-**Wichtiger Hinweis:** Dies ist ein Textentwurf. Die eckigen Klammern
-`[...]` musst du durch echte Angaben ersetzen (Name, Datum, Kontakt-E-Mail),
-bevor du die Seite live hostest. TikToks Reviewer öffnet diese URL aktiv
-während der Prüfung — eine Platzhalter-Seite oder eine Seite, die generisch
-wirkt und nicht zu deiner tatsächlichen App passt, ist einer der häufigsten
-Ablehnungsgründe.
+Fragen zu dieser Datenschutzerklärung: Linus Wolf, linus_wolf06@gmx.de
